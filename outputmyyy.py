@@ -1,7 +1,11 @@
+
+#нужно сохранить на новый branch
+#добаить на главну
+
 products = {
-    "date": "03-05-2022",
+    
     "shop": "Alexa&Co",
-    "project": "Alexa&Co Rozetka",
+    "project": 
     "deals": [
         {
             'id':'74826894',
